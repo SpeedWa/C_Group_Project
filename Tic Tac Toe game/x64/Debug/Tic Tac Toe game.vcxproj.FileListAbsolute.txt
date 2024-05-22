@@ -1,0 +1,4 @@
+C:\Users\Vladimir(Admin)\Desktop\Boosty\Tic Tac Toe game\Tic Tac Toe game\x64\Debug\Tic Tac Toe game.vcxproj.AssemblyReference.cache
+C:\Users\Vladimir(Admin)\Desktop\Boosty\Tic Tac Toe game\Tic Tac Toe game\x64\Debug\TicTacToegame.GameForm.resources
+C:\Users\Vladimir(Admin)\Desktop\Boosty\Tic Tac Toe game\Tic Tac Toe game\x64\Debug\TicTacToegame.StartForm.resources
+C:\Users\Vladimir(Admin)\Desktop\Boosty\Tic Tac Toe game\Tic Tac Toe game\x64\Debug\Tic Tac Toe game.vcxproj.GenerateResource.cache
